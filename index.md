@@ -1,3 +1,6 @@
+
+## 哈哈哈
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Kry1702/kry.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
